@@ -107,4 +107,4 @@ require (
 	golang.org/x/crypto v0.0.0-20220722155217-630584e8d5aa // indirect
 )
 
-replace github.com/thanos-io/objstore => github.com/neticdk/objstore v0.0.0-20221006135717-79dcec7fe604
+replace github.com/thanos-io/objstore => github.com/neticdk/objstore v0.0.1
